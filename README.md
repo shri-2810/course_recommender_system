@@ -17,8 +17,6 @@ This is a course recommender system designed to suggest relevant courses based o
 - Jupyter Notebook
 - Pandas & NumPy
 - Scikit-Learn
-- Flask (if applicable for deployment)
-- SQLite / PostgreSQL (for data storage)
 
 ## Setup
 
