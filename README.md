@@ -1,6 +1,6 @@
 # oracle_of_recommendation
 
-## Oracle of Recommendation System
+## Oracle of Recommendation-Course Recommender System
 
 This is a course recommender system designed to suggest relevant courses based on user preferences using machine learning algorithms.
 
