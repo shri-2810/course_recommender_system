@@ -1,34 +1,43 @@
-# **Oracle of Recommendation – Course Recommender System**   
+# oracle_of_recommendation
 
-## **Overview**  
-Oracle of Recommendation is an **AI-powered course recommender system** that suggests the most relevant courses based on user interests, past enrollments, and learning preferences. The system leverages **machine learning models** to provide personalized course recommendations.  
+## Oracle of Recommendation System
 
----
+This is a course recommender system designed to suggest relevant courses based on user preferences using machine learning algorithms.
 
-## **Features**  
-✅ **Intelligent Course Recommendation**  
-- Suggests courses using **machine learning-based recommendation models**.  
+## Features
 
-✅ **Personalized Suggestions**  
-- Custom-tailored recommendations based on user input.  
+- Personalized course recommendations.
+- Machine learning-based recommendation algorithms.
+- Easy-to-use interface.
+- Scalable and flexible.
 
-✅ **Real-Time Results**  
-- Generates course recommendations instantly.  
+## Tech Stack
 
-✅ **Data-Driven Insights**  
-- Analyzes user preferences to improve recommendations.  
+- Python
+- Jupyter Notebook
+- Pandas & NumPy
+- Scikit-Learn
+- Flask (if applicable for deployment)
+- SQLite / PostgreSQL (for data storage)
 
----
+## Setup
 
-## **Tech Stack**  
-- **Python** – Core language for processing recommendations.  
-- **Pandas & NumPy** – Data processing and manipulation.  
-- **Scikit-learn** – Machine learning algorithms.  
-- **Jupyter Notebook** – Model development and testing.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/oracle-of-recommendation.git
+2. Install dependencies
+   ```bash
+   pip install -r requirements.txt
+3. Run the Jupyter Notebook:
+   ```bash
+   jupyter notebook oracle_of_rec_final-2.ipynb
 
----
+## Usage
 
-## **Setup Instructions**  
+1. Load the dataset in the notebook.
+2. Run the data preprocessing steps.
+3. Execute the recommendation model.
+4. View and analyze the suggested courses.
 
-### 1️⃣ Clone the Repository  
+
 
